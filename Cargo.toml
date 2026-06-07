@@ -1,0 +1,9 @@
+[package]
+name = "witness-complex"
+version = "0.1.0"
+edition = "2021"
+description = "Witness complex construction for landmark-based topological data analysis with random, maxmin, and k-means++ landmark selection"
+license = "MIT"
+repository = "https://github.com/SuperInstance/witness-complex"
+
+[dependencies]
